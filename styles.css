@@ -12,8 +12,28 @@
 
 .logo_img {
     width: 100px;
+    justify-content: center;
 }
 
+.bbc_wrapper {
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    padding: 5px 7px 7px 7px;
+}
+
+.bbc_wrapper div {
+    width: 26px;
+    height: 25px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 20pt;
+}
 
 .wrapper2{
     display: flex;
