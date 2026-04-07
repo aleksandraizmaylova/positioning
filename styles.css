@@ -93,4 +93,18 @@
     width: 400px;
     border-radius: 10px;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+summary {
+    cursor: pointer;
+    font-weight: bold;
+    text-align: left;
+}
+
+details[open] {
+    background: #e0e0e0;
 }
