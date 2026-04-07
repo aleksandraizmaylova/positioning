@@ -14,8 +14,31 @@
     width: 100px;
 }
 
-.bbc_wrapper {
 
+.wrapper2{
+    display: flex;
 }
 
-.
+.logo2 {
+    background-color: rgb(255, 255, 255);
+    border: solid black 1px;
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+}
+
+.jpn_wrapper {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.jpn_block {
+    display: inline-block;
+    position: absolute;
+    top: 15px;
+    width: 40px;
+    height: 40px;
+    background: #b3062c;
+    border-radius: 50%;
+}
