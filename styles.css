@@ -1,0 +1,21 @@
+.wrapper1{
+    display: flex;
+}
+
+.logo1 {
+    background-color: rgb(255, 255, 255);
+    border: solid black 1px;
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+}
+
+.logo_img {
+    width: 100px;
+}
+
+.bbc_wrapper {
+
+}
+
+.
